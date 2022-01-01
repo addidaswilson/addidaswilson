@@ -5,12 +5,12 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 Passionate Data Scientist
-- 🌱 I’m currently building my data science portfolio 
-- 👯 I’m also increasing my knowlesge of **Python and Machine Learning Algorithms.**
-- 👨‍💻 Visit my website at **[Adisa Wilson](https://adisawilson.com)**
+- 👨‍🔬 Passionate Data Scientist
+- 📖 I’m currently building my data science portfolio 
+- 🐍 I’m also increasing my knowlesge of **Python and Machine Learning Algorithms.**
+- 💻 Visit my website at **[Adisa Wilson](https://adisawilson.com)**
 - 🥅 2021 Goals: Contribute to more **OpenSource Projects**
-- ⚡ Fun fact: **I enjoy football and video games**
+- ⚽ Fun fact: **I enjoy football and video games**
 
 <br />
 
@@ -39,8 +39,11 @@
 
   <br/>
     <a href="https://github.com/addidaswilson/github-readme-stats"><img alt="Adisa Wilson's Github Stats" src="https://github-readme-stats.vercel.app/api?username=addidaswilson&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/addidaswilson/github-readme-stats"><img alt="Adisa Wilson's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=addidaswilson
-&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+
+<details>
+  <summary>:zap: Most Used Languages</summary>
+
+<img align="left" alt="Adisa's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=addidaswilson" />
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
