@@ -48,13 +48,11 @@
 <img align="left" alt="Adisa's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=addidaswilson" />
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
+</details>
 
 <br/>
 <br/>
 
-<a href="https://github.com/addidaswilson/github-readme-activity-graph"><img alt="Adisa Wilson's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=addidaswilson
-&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
