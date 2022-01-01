@@ -9,7 +9,7 @@
 
 - 👨‍🔬 Passionate Data Scientist
 - 📖 I’m currently building my data science portfolio 
-- 🐍 I’m also increasing my knowlesge of **Python and Machine Learning Algorithms.**
+- 🐍 I’m also increasing my knowledge of **Python and Machine Learning Algorithms.**
 - 💻 Visit my website at **[Adisa Wilson](https://adisawilson.com)**
 - 🥅 2021 Goals: Contribute to more **OpenSource Projects**
 - ⚽ Fun fact: **I enjoy football and video games**
@@ -43,12 +43,11 @@
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
 
-<br/>
-<br/>
-
-
-<br/>
-<br/>
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 
