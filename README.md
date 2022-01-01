@@ -1,14 +1,15 @@
-### Hi there 👋
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-### Hi there, I'm addidaswilson - aka [Adisa][website] 👋 
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Adisa</h1>
+<h3 align="center">I'm a passionate Full Stack Data Scientist from Trinidad.</h3> [website]
 
-## I'm a passionate data scientist who is always curious to learn!!
+## 🙋‍♂️ About Me
 
 - 🔭 Passionate Data Scientist
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🌱 I’m currently building my data science portfolio 
+- 👯 I’m also increasing my knowlesge of **Python and Machine Learning Algorithms.**
+- 🥅 2021 Goals: Contribute to more **OpenSource Projects**
+- ⚡ Fun fact: **I enjoy football and video games**
 
 ### Connect with me:
 
