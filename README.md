@@ -1,6 +1,6 @@
 <!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> --> 
 
- <img align="right" alt="GIF" src="https://github.com/addidaswilson/addidaswilson/blob/main/coder_1.gif" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://github.com/addidaswilson/addidaswilson/blob/main/coder_nobg.gif" width="500" height="320" />
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Adisa</h1>
 <h3 align="center">I'm a passionate Full Stack Data Scientist from Trinidad.</h3>
