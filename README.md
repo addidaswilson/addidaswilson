@@ -11,7 +11,7 @@
 - 📖 I’m currently building my data science portfolio 
 - 🐍 I’m also increasing my knowledge of **Python and Machine Learning Algorithms.**
 - 💻 Visit my website at **[Adisa Wilson](https://adisawilson.com)**
-- 🥅 2021 Goals: Contribute to more **OpenSource Projects**
+- 🥅 2022 Goals: Contribute to more **OpenSource Projects**
 - ⚽ Fun fact: **I enjoy football and video games**
 
 <br />
